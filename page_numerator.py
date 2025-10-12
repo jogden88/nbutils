@@ -25,12 +25,18 @@ def inc_pgn(tree):
 
 def paginator(tree, max_pgn):
     base_page = tree.getroot()
-    base_pgn = int(base_page.findall(PREPEND_SVG + 'g')[1]
-                   .find(PREPEND_SVG + 'text')
-                   .find(PREPEND_SVG + 'tspan')
-                   .text)
+    # This reference to the text is no help, we need a reference to the object
+    # before the .text. Only then can we update the page number and writeout.
+    base_pgn_obj = base_page \
+        .findall(PREPEND_SVG + 'g')[1] \
+        .find(PREPEND_SVG + 'text') \
+        .find(PREPEND_SVG + 'tspan')
+    base_pgn = int(base_pgn_obj.text)
     for pgn in range(base_pgn, max_pgn, 2):
-        print(pgn)
+        pgn_text = '{:03d}'.format(pgn)
+        base_pgn_obj.text = pgn_text
+        tree.write('{}'.format(pgn_text) + '.svg')
+        print(pgn_text)
 
 
 def next_page():
