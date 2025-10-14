@@ -1,2 +1,4 @@
-*.svg
+*.bak
+/*.svg
 unbound_pages/
+.DS_Store

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="6in"
+   height="9in"
+   viewBox="0 0 152.4 228.6"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   sodipodi:docname="left_pgn_001.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="in"
+     showgrid="true"
+     showguides="true"
+     inkscape:zoom="4.6732606"
+     inkscape:cx="77.675959"
+     inkscape:cy="811.74587"
+     inkscape:window-width="1512"
+     inkscape:window-height="920"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer3">
+    <inkscape:grid
+       id="grid1"
+       units="in"
+       originx="0"
+       originy="0"
+       spacingx="12.7"
+       spacingy="7.62"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="3"
+       enabled="true"
+       visible="true"
+       dotted="false" />
+    <inkscape:grid
+       id="grid2"
+       units="in"
+       originx="0"
+       originy="0"
+       spacingx="2.54"
+       spacingy="2.54"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="3"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <rect
+       x="518.39999"
+       y="815.99999"
+       width="23.999777"
+       height="14.59899"
+       id="rect2" />
+  </defs>
+  <g
+     inkscape:label="background"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:2;stroke-linecap:round;paint-order:markers fill stroke;fill-opacity:1"
+       id="rect1"
+       width="152.39999"
+       height="228.59999"
+       x="0"
+       y="0"
+       inkscape:label="background" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="footer">
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#cccccc;stroke-width:1.327;stroke-linecap:round;stroke-opacity:1;paint-order:markers fill stroke;stroke-dasharray:none"
+       d="M 142.24,213.35999 H 10.16"
+       id="path2"
+       inkscape:label="bottom_line" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.77243438,0,0,0.81144537,-390.58599,-447.89723)"
+       id="pgn"
+       style="letter-spacing:-1px;paint-order:markers fill stroke;stroke-opacity:1;stroke-dasharray:none;stroke-linecap:round;stroke-width:0.121258;stroke:#cccccc;fill-opacity:1;fill:#cccccc;display:inline;shape-inside:url(#rect2);white-space:pre;direction:ltr;writing-mode:lr-tb;text-align:start;font-variant-east-asian:normal;font-variant-numeric:normal;font-variant-caps:normal;font-variant-ligatures:normal;-inkscape-font-specification:'Courier, Normal';font-family:Courier;font-size:12px;font-stretch:normal;font-weight:normal;font-variant:normal;font-style:normal"
+       inkscape:label="pgn"><tspan
+         x="518.40039"
+         y="826.54688"
+         id="tspan1">1</tspan></text>
+  </g>
+</svg>
