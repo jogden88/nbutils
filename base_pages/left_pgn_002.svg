@@ -25,15 +25,15 @@
      inkscape:document-units="in"
      showgrid="true"
      showguides="true"
-     inkscape:zoom="4.6732606"
-     inkscape:cx="77.675959"
-     inkscape:cy="811.74587"
+     inkscape:zoom="0.58415758"
+     inkscape:cx="212.27149"
+     inkscape:cy="386.02598"
      inkscape:window-width="1512"
      inkscape:window-height="920"
      inkscape:window-x="0"
      inkscape:window-y="34"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer3">
+     inkscape:current-layer="layer1">
     <inkscape:grid
        id="grid1"
        units="in"
@@ -91,18 +91,18 @@
      id="layer3"
      inkscape:label="footer">
     <path
-       style="fill:#ffffff;fill-opacity:1;stroke:#cccccc;stroke-width:1.327;stroke-linecap:round;stroke-opacity:1;paint-order:markers fill stroke;stroke-dasharray:none"
-       d="M 142.24,213.35999 H 10.16"
+       style="fill:#ffffff;fill-opacity:1;stroke:#cccccc;stroke-width:0.762;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="M 142.23999,218.44 H 10.16"
        id="path2"
        inkscape:label="bottom_line" />
     <text
        xml:space="preserve"
-       transform="matrix(0.77243438,0,0,0.81144537,-390.58599,-447.89723)"
+       transform="matrix(0.77243438,0,0,0.81144537,-391.00882,-442.73852)"
        id="pgn"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Courier;-inkscape-font-specification:'Courier, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:-1px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#cccccc;fill-opacity:1;stroke:#cccccc;stroke-width:0.121258;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.02072px;font-family:Courier;-inkscape-font-specification:'Courier, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:-1px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#cccccc;fill-opacity:1;stroke:#cccccc;stroke-width:0.121258;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        inkscape:label="pgn"><tspan
          x="518.40039"
-         y="826.54688"
+         y="823.04946"
          id="tspan1">2</tspan></text>
   </g>
 </svg>

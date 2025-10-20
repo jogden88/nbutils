@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="6in"
+   height="9in"
+   viewBox="0 0 20 30"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   sodipodi:docname="grid_6x9_5sq_p_in.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="in"
+     showgrid="true"
+     showguides="true"
+     inkscape:zoom="0.77249605"
+     inkscape:cx="224.59662"
+     inkscape:cy="431.71742"
+     inkscape:window-width="1512"
+     inkscape:window-height="920"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1">
+    <inkscape:grid
+       id="grid1"
+       units="in"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Background"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#c9c9c9;stroke:none;stroke-width:0.0333333;paint-order:markers fill stroke;fill-opacity:1"
+       id="rect1"
+       width="19.999998"
+       height="29.999998"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Grid">
+    <path
+       d="m 0,0 0,30 m 0.99652778,-30 0,30 M 1.9930556,0 l 0,30 m 0.9965277,-30 0,30 m 0.9965278,-30 0,30 m 0.9965278,-30 0,30 m 0.9965278,-30 0,30 m 0.9965277,-30 0,30 m 0.9965278,-30 0,30 M 8.96875,0 l 0,30 m 0.9965278,-30 0,30 m 0.9965282,-30 0,30 m 0.996527,-30 0,30 m 0.996528,-30 0,30 m 0.996528,-30 0,30 m 0.996528,-30 0,30 m 0.996527,-30 0,30 m 0.996528,-30 0,30 M 17.9375,0 l 0,30 m 0.996528,-30 0,30 m 0.996528,-30 0,30 M 0,0 20,0 m -20,0.99652778 20,0 M 0,1.9930556 l 20,0 m -20,0.9965277 20,0 m -20,0.9965278 20,0 m -20,0.9965278 20,0 m -20,0.9965278 20,0 m -20,0.9965277 20,0 m -20,0.9965278 20,0 M 0,8.96875 l 20,0 m -20,0.9965278 20,0 m -20,0.9965282 20,0 m -20,0.996527 20,0 m -20,0.996528 20,0 m -20,0.996528 20,0 m -20,0.996528 20,0 m -20,0.996527 20,0 m -20,0.996528 20,0 M 0,17.9375 l 20,0 m -20,0.996528 20,0 m -20,0.996528 20,0 m -20,0.996527 20,0 m -20,0.996528 20,0 m -20,0.996528 20,0 m -20,0.996528 20,0 m -20,0.996527 20,0 m -20,0.996528 20,0 m -20,0.996528 20,0 m -20,0.996528 20,0 m -20,0.996528 20,0 m -20,0.996527 20,0"
+       style="fill:none;stroke:#ffffff;stroke-width:0.0347769;stroke-opacity:1;stroke-dasharray:none"
+       id="path1131" />
+  </g>
+</svg>

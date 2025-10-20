@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="8.125in"
+   height="10.25in"
+   viewBox="0 0 27.083334 34.166667"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   sodipodi:docname="grid_8x10_wbleed_5sqpin.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="in"
+     showgrid="true"
+     inkscape:zoom="0.93636792"
+     inkscape:cx="383.93028"
+     inkscape:cy="316.64904"
+     inkscape:window-width="1512"
+     inkscape:window-height="920"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.1312336"
+       spacingy="0.1312336"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Background"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#c9c9c9;stroke:none;stroke-width:0.0347767;paint-order:markers fill stroke"
+       id="rect3"
+       width="27.083334"
+       height="34.166668"
+       x="0"
+       y="0"
+       inkscape:label="grey" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Grid"
+     style="display:inline">
+    <path
+       d="M 0,0 V 34.166668 M 0.65625002,0 V 34.166668 M 1.3125,0 V 34.166668 M 1.96875,0 V 34.166668 M 2.6250001,0 V 34.166668 M 3.2812501,0 V 34.166668 M 3.9375001,0 V 34.166668 M 4.5937501,0 V 34.166668 M 5.2500001,0 V 34.166668 M 5.9062501,0 V 34.166668 M 6.5625002,0 V 34.166668 M 7.2187502,0 V 34.166668 M 7.8750002,0 V 34.166668 M 8.5312502,0 V 34.166668 M 9.1875002,0 V 34.166668 M 9.8437502,0 V 34.166668 M 10.5,0 V 34.166668 M 11.15625,0 V 34.166668 M 11.8125,0 V 34.166668 M 12.46875,0 V 34.166668 M 13.125,0 V 34.166668 M 13.78125,0 V 34.166668 M 14.4375,0 V 34.166668 M 15.09375,0 V 34.166668 M 15.75,0 V 34.166668 M 16.40625,0 V 34.166668 M 17.0625,0 V 34.166668 M 17.71875,0 V 34.166668 M 18.375,0 V 34.166668 M 19.03125,0 V 34.166668 M 19.6875,0 V 34.166668 M 20.343751,0 V 34.166668 M 21.000001,0 V 34.166668 M 21.656251,0 V 34.166668 M 22.312501,0 V 34.166668 M 22.968751,0 V 34.166668 M 23.625001,0 V 34.166668 M 24.281251,0 V 34.166668 M 24.937501,0 V 34.166668 M 25.593751,0 V 34.166668 M 26.250001,0 V 34.166668 M 26.906251,0 V 34.166668 M 0,0 H 27.083334 M 0,0.65625002 H 27.083334 M 0,1.3125 H 27.083334 M 0,1.96875 H 27.083334 M 0,2.6250001 H 27.083334 M 0,3.2812501 H 27.083334 M 0,3.9375001 H 27.083334 M 0,4.5937501 H 27.083334 M 0,5.2500001 H 27.083334 M 0,5.9062501 H 27.083334 M 0,6.5625002 H 27.083334 M 0,7.2187502 H 27.083334 M 0,7.8750002 H 27.083334 M 0,8.5312502 H 27.083334 M 0,9.1875002 H 27.083334 M 0,9.8437502 H 27.083334 M 0,10.5 H 27.083334 M 0,11.15625 H 27.083334 M 0,11.8125 H 27.083334 M 0,12.46875 H 27.083334 M 0,13.125 H 27.083334 M 0,13.78125 H 27.083334 M 0,14.4375 H 27.083334 M 0,15.09375 H 27.083334 M 0,15.75 H 27.083334 M 0,16.40625 H 27.083334 M 0,17.0625 H 27.083334 M 0,17.71875 H 27.083334 M 0,18.375 H 27.083334 M 0,19.03125 H 27.083334 M 0,19.6875 H 27.083334 M 0,20.343751 H 27.083334 M 0,21.000001 H 27.083334 M 0,21.656251 H 27.083334 M 0,22.312501 H 27.083334 M 0,22.968751 H 27.083334 M 0,23.625001 H 27.083334 M 0,24.281251 H 27.083334 M 0,24.937501 H 27.083334 M 0,25.593751 H 27.083334 M 0,26.250001 H 27.083334 M 0,26.906251 H 27.083334 M 0,27.562501 H 27.083334 M 0,28.218751 H 27.083334 M 0,28.875001 H 27.083334 M 0,29.531251 H 27.083334 M 0,30.187501 H 27.083334 M 0,30.843751 H 27.083334 M 0,31.500001 H 27.083334 M 0,32.156251 H 27.083334 M 0,32.812501 H 27.083334 M 0,33.468751 H 27.083334 M 0,34.125001 h 27.083334"
+       style="fill:none;stroke:#ffffff;stroke-width:0.0347222px;stroke-opacity:1"
+       id="path3" />
+  </g>
+</svg>
